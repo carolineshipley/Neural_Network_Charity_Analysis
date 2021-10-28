@@ -23,25 +23,25 @@ The first attempt at compiling a neuron network consisted of:
 - The model was unable to achieve 75% accuracy.
 - In an attempt to increase the model performance 3 more steps were tried as described below.
 
-![First](https://github.com/Wall-E28/neural_network_charity_analysis/blob/main/Images/ASC_scores.png)
+![First](https://github.com/carolineshipley/Neural_Network_Charity_Analysis/blob/main/Resources/AlphabetSoup.PNG)
 
 #### Second Attempt
 
 On the second attempt the columns "SPECIAL_CONSIDERATIONS" and "STATUS" were removed was was thought that it could also be non beneficial for the model. The threshold for the classification column was lowered in an attempt to have more unique values. It was kept two layers with 100 and 50 neutrons in each. The preformance metrics of this model are shown below.
 
-![V1](https://github.com/Wall-E28/neural_network_charity_analysis/blob/main/Images/ASC_Ov1_scores.png)
+![V1](https://github.com/carolineshipley/Neural_Network_Charity_Analysis/blob/main/Resources/Optimized_V1.PNG)
 
 #### Third Attempt
 
 On the third attempt the column "STATUS" was re-added because when was removed the accuracy of the model went down. It was kept two layers with 100 and 50 neutrons in each. The preformance metrics of this model are shown below.
 
-![V2](https://github.com/Wall-E28/neural_network_charity_analysis/blob/main/Images/ASC_Ov2_scores.png)
+![V2](https://github.com/carolineshipley/Neural_Network_Charity_Analysis/blob/main/Resources/Optimized_V2.PNG)
 
 #### Fourth Attempt
 
 On the fourth attempt it was kept two layers with 120 and 60 neutrons in each. The preformance metrics of this model are shown below.
 
-![V3](https://github.com/Wall-E28/neural_network_charity_analysis/blob/main/Images/ASC_Ov3_scores.png)
+![V3](https://github.com/carolineshipley/Neural_Network_Charity_Analysis/blob/main/Resources/Optimized_V3.PNG)
 
 ## Summary
 
