@@ -29,13 +29,13 @@ The first attempt at compiling a neuron network consisted of:
 
 On the second attempt the columns "SPECIAL_CONSIDERATIONS" and "STATUS" were removed was was thought that it could also be non beneficial for the model. The threshold for the classification column was lowered in an attempt to have more unique values. It was kept two layers with 100 and 50 neutrons in each. The preformance metrics of this model are shown below.
 
-![V1](https://github.com/carolineshipley/Neural_Network_Charity_Analysis/blob/main/Resources/Optimized_V1.PNG)
+![V1](https://github.com/carolineshipley/Neural_Network_Charity_Analysis/blob/main/Resources/Optimized_V2.PNG)
 
 #### Third Attempt
 
 On the third attempt the column "STATUS" was re-added because when was removed the accuracy of the model went down. It was kept two layers with 100 and 50 neutrons in each. The preformance metrics of this model are shown below.
 
-![V2](https://github.com/carolineshipley/Neural_Network_Charity_Analysis/blob/main/Resources/Optimized_V2.PNG)
+![V2](https://github.com/carolineshipley/Neural_Network_Charity_Analysis/blob/main/Resources/Optimized_V1.PNG)
 
 #### Fourth Attempt
 
